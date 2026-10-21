@@ -31,3 +31,19 @@ Vanilla HTML/CSS/JS, zero dependencies, zero network calls.
 ## Run locally
 
 Open `index.html` or serve the folder (`python3 -m http.server`).
+
+---
+
+## 🐍 Python version (real ML backend) - `python-app/`
+
+The browser demo above is fully client-side. This folder is the **pro-grade version** with a real training pipeline on real data:
+
+Design intents, add examples, train a real classifier (TF-IDF word+char n-grams + logistic regression, 82% CV accuracy on the starter set), chat with your bot and export it. Stack: Python, Streamlit, scikit-learn.
+
+```bash
+cd python-app
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+Deploy free on **Hugging Face Spaces** (no card): create a Space, upload the `python-app/` folder - it ships Space-ready (`sdk` + `app_file` already set in its README). Retrain anytime with `python train.py` (where present).

@@ -1,0 +1,317 @@
+{
+  "greeting": {
+    "examples": [
+      "hi",
+      "hello",
+      "hey there",
+      "good morning",
+      "good evening",
+      "namaste",
+      "hello how are you",
+      "hi there friend",
+      "hey what's up",
+      "greetings",
+      "hello good to see you",
+      "hii",
+      "heyy",
+      "good afternoon friend",
+      "yo",
+      "hi how's it going",
+      "hello there",
+      "hey how have you been",
+      "good day"
+    ],
+    "responses": [
+      "Hello! How can I help you today?",
+      "Hi there! What can I do for you?"
+    ]
+  },
+  "goodbye": {
+    "examples": [
+      "bye",
+      "goodbye",
+      "see you later",
+      "talk to you soon",
+      "i have to go",
+      "bye bye",
+      "good night",
+      "catch you later",
+      "i'm leaving",
+      "farewell",
+      "see ya",
+      "gotta run",
+      "that's all for now",
+      "i'm off",
+      "bye for now",
+      "have a good day",
+      "until next time",
+      "so long",
+      "peace out"
+    ],
+    "responses": [
+      "Goodbye! Come back anytime.",
+      "See you soon!"
+    ]
+  },
+  "thanks": {
+    "examples": [
+      "thank you",
+      "thanks a lot",
+      "thanks so much",
+      "really appreciate it",
+      "that was helpful thanks",
+      "thank you very much",
+      "thanks for your help",
+      "thx",
+      "great, thanks",
+      "much appreciated",
+      "thank you so much",
+      "many thanks",
+      "appreciate your help",
+      "thanks a bunch",
+      "you've been very helpful",
+      "thanks for the info",
+      "that helps a lot, thank you",
+      "cheers thanks",
+      "grateful for that"
+    ],
+    "responses": [
+      "You're welcome!",
+      "Happy to help!"
+    ]
+  },
+  "order_status": {
+    "examples": [
+      "where is my order",
+      "track my package",
+      "when will my order arrive",
+      "order status please",
+      "has my order shipped",
+      "i want to track my delivery",
+      "what's the status of my order",
+      "my package is late",
+      "order tracking number",
+      "when does my delivery come",
+      "track order number 1234",
+      "my order hasn't arrived",
+      "where's my stuff",
+      "delivery status",
+      "when will i get my package",
+      "order not received yet",
+      "check my shipment",
+      "status of order please",
+      "still waiting for my order"
+    ],
+    "responses": [
+      "You can track your order from the Orders page with your order ID. It usually takes 3-5 business days."
+    ]
+  },
+  "refund": {
+    "examples": [
+      "i want a refund",
+      "how do i get my money back",
+      "refund policy",
+      "cancel and refund my order",
+      "i was charged twice",
+      "return my payment",
+      "refund request",
+      "money back please",
+      "i need a refund for this",
+      "how long do refunds take",
+      "can i return this",
+      "return policy",
+      "i need to return a product",
+      "get my refund status",
+      "wrong item sent, want refund",
+      "defective product refund",
+      "cancel my order and refund",
+      "refund for damaged goods",
+      "how do i return something"
+    ],
+    "responses": [
+      "Refunds are processed within 5-7 business days to the original payment method. Shall I point you to the returns page?"
+    ]
+  },
+  "opening_hours": {
+    "examples": [
+      "when are you open",
+      "what are your hours",
+      "are you open on sunday",
+      "opening time",
+      "closing time",
+      "what time do you close",
+      "store hours",
+      "are you open now",
+      "working hours",
+      "timings please",
+      "do you open on weekends",
+      "what time do you open in the morning",
+      "holiday hours",
+      "are you open today",
+      "when do you close on friday",
+      "sunday timings",
+      "how late are you open",
+      "business hours please",
+      "when does the store open"
+    ],
+    "responses": [
+      "We're open Monday to Saturday, 9 AM to 9 PM. Sundays 10 AM to 6 PM."
+    ]
+  },
+  "price_inquiry": {
+    "examples": [
+      "how much does it cost",
+      "what's the price",
+      "price of this item",
+      "is there a discount",
+      "any offers running",
+      "cost please",
+      "how much is shipping",
+      "price list",
+      "what are the charges",
+      "do you have coupons",
+      "how much will it cost me",
+      "is this on sale",
+      "what's the delivery charge",
+      "do you offer discounts",
+      "how much for two",
+      "price range",
+      "any promo codes",
+      "what's the total cost",
+      "is shipping free"
+    ],
+    "responses": [
+      "Prices are listed on each product page. Shipping is free above \u20b9499, and first-time buyers get 10% off with code WELCOME10."
+    ]
+  },
+  "complaint": {
+    "examples": [
+      "i have a complaint",
+      "this is unacceptable",
+      "very disappointed",
+      "worst service",
+      "i'm not happy with this",
+      "terrible experience",
+      "i want to complain",
+      "this product is broken",
+      "really bad quality",
+      "i'm furious about this",
+      "i want to file a complaint",
+      "service was really poor",
+      "not satisfied at all",
+      "this is ridiculous",
+      "completely dissatisfied",
+      "your app keeps crashing",
+      "product stopped working",
+      "very poor quality control",
+      "utterly disappointed with support"
+    ],
+    "responses": [
+      "I'm sorry to hear that. Let me connect you to our support team - or describe the issue and I'll log it right away."
+    ]
+  },
+  "joke": {
+    "examples": [
+      "tell me a joke",
+      "make me laugh",
+      "say something funny",
+      "joke please",
+      "another joke",
+      "know any jokes",
+      "funny story",
+      "humor me",
+      "crack a joke",
+      "tell me something hilarious",
+      "one more joke please",
+      "got any funny jokes",
+      "tell another one",
+      "say a joke",
+      "i need a laugh",
+      "joke of the day",
+      "make me smile",
+      "something funny please",
+      "know any puns"
+    ],
+    "responses": [
+      "Why do programmers prefer dark mode? Because light attracts bugs!"
+    ]
+  },
+  "help": {
+    "examples": [
+      "help",
+      "i need help",
+      "what can you do",
+      "how does this work",
+      "can you assist me",
+      "help me out",
+      "what are your features",
+      "how to use this",
+      "guide me",
+      "i'm confused",
+      "what can i ask you",
+      "show me what you can do",
+      "help menu",
+      "how do i use this bot",
+      "what topics do you know",
+      "can you help me with something",
+      "i need some assistance",
+      "support please",
+      "what should i ask"
+    ],
+    "responses": [
+      "I can answer questions about orders, refunds, hours, prices and more. Try asking about your order status!"
+    ]
+  },
+  "smalltalk_name": {
+    "examples": [
+      "what's your name",
+      "who are you",
+      "your name",
+      "what should i call you",
+      "do you have a name",
+      "tell me your name",
+      "are you a robot",
+      "are you human",
+      "what are you",
+      "who am i talking to",
+      "what do people call you",
+      "are you an ai",
+      "are you a bot or human",
+      "tell me about yourself",
+      "who made you",
+      "what is your name exactly",
+      "do you have feelings",
+      "introduce yourself",
+      "are you real"
+    ],
+    "responses": [
+      "I'm SupportBot, a demo assistant built with scikit-learn - a machine-learning model, not a human!"
+    ]
+  },
+  "smalltalk_age": {
+    "examples": [
+      "how old are you",
+      "what's your age",
+      "when were you born",
+      "your age",
+      "are you old",
+      "when were you created",
+      "age?",
+      "how long have you existed",
+      "your birthday",
+      "date of birth",
+      "when were you made",
+      "how old is this bot",
+      "what year were you built",
+      "are you a new model",
+      "when did you start working",
+      "how long have you been around",
+      "your creation date",
+      "when was your birthday",
+      "how many years old are you"
+    ],
+    "responses": [
+      "I was trained a moment ago, so I'm brand new - but my patterns come from thousands of example conversations."
+    ]
+  }
+}
